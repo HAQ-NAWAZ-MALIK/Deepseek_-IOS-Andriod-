@@ -18,7 +18,7 @@ I am a Computer Science student who was inspired by Deepseek and decided to buil
 
 ## Overview
 
-- **Android Source Code:** Available in the `Android.zip` file  
+- **Android Source Code:** Available in the `android_source.tar` file  
 - **iOS Source Code:** Available in the `iOS.zip` file  
 - **APK (Android):** For a quick preview on your Android device, you can directly install the `DeepseekApp.apk` included here.  
 - **Screenshots:** Samples of the user interface are shown below.
