@@ -44,7 +44,7 @@ Feel free to modify the code and open a Pull Request or file an Issue if you spo
 ## Getting Started
 
 1. **Clone this repository** to your local machine.
-2. **Unzip** the `Android.zip` or `iOS.zip` file (or both) depending on which platform you’d like to explore.
+2. **Unzip** the `android_source.tar` or `ios_source.tar` file (or both) depending on which platform you’d like to explore.
 3. **Open** the unzipped project in your respective IDE:
    - Android: [Android Studio](https://developer.android.com/studio)
    - iOS: [Xcode](https://developer.apple.com/xcode/)
